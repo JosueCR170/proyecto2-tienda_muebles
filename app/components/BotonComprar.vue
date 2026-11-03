@@ -5,9 +5,7 @@ const props = defineProps({
 
 const { siteUrl } = useRuntimeConfig().public
 
-// Snipcart visita data-item-url para validar que el producto exista con el mismo precio,
-// por eso siempre apunta a la página de detalle, incluso desde los listados
-const url = computed(() => `${siteUrl}/productos/${props.producto.slug}`)
+const url = computed(() => `${siteUrl}/productos/${props.producto.slug}/`)
 </script>
 
 <template>

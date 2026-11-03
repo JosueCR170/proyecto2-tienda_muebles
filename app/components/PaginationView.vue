@@ -1,6 +1,4 @@
 <script setup>
-// Si se recibe "base", cada página es una ruta propia (/base, /base/2, ...) que se pre-renderiza.
-// Si no, la página se guarda en el parámetro ?pagina= de la ruta actual (usado en la búsqueda).
 const props = defineProps({
   pagina: { type: Number, required: true },
   total: { type: Number, required: true },

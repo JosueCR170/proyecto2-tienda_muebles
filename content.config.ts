@@ -4,7 +4,6 @@ const CATEGORIAS = ['sala', 'comedor', 'dormitorio', 'oficina', 'iluminacion', '
 
 export default defineContentConfig({
   collections: {
-    // Un archivo JSON por categoría en content/categorias/
     categorias: defineCollection({
       type: 'data',
       source: 'categorias/**.json',
@@ -16,7 +15,6 @@ export default defineContentConfig({
         orden: z.number()
       })
     }),
-    // Un archivo JSON por artículo en content/productos/
     productos: defineCollection({
       type: 'data',
       source: 'productos/**.json',

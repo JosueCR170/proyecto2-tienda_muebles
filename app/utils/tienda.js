@@ -20,7 +20,6 @@ export function normalizar(texto) {
     .trim()
 }
 
-// Un producto cumple la búsqueda si cada palabra aparece en alguno de sus campos de texto
 export function coincide(producto, nombreCategoria, consulta) {
   const palabras = normalizar(consulta).split(' ').filter(p => p.length >= 2)
   if (!palabras.length) return false

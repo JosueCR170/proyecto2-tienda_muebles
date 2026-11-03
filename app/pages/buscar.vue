@@ -11,8 +11,6 @@ const { data: productos } = await useAsyncData('busqueda', () => {
   return queryCollection('productos').order('num', 'ASC').all()
 })
 
-// La consulta vive en la URL (?q=), que sólo se conoce en el navegador:
-// los resultados se calculan y se muestran dentro de <ClientOnly>
 const consulta = computed(() => String(route.query.q ?? '').trim())
 
 const resultados = computed(() => {

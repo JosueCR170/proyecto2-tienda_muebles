@@ -19,8 +19,6 @@ function loadComments() {
   script.async = true
   script.crossOrigin = 'anonymous'
   script.setAttribute('repo', props.repo)
-  // Netlify agrega "/" al final de las rutas, pero la navegación interna de Nuxt no.
-  // Se usa la ruta sin barras en los extremos para que cada artículo tenga un solo issue.
   const term = props.issueTerm === 'pathname'
     ? route.path.replace(/^\/+|\/+$/g, '')
     : props.issueTerm
