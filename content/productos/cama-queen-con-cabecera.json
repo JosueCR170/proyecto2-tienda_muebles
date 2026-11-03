@@ -1,0 +1,14 @@
+{
+  "num": 13,
+  "slug": "cama-queen-con-cabecera",
+  "nombre": "Cama queen con cabecera tapizada",
+  "descripcion": "Cama queen con cabecera capitoneada y base de tablillas que no requiere box spring.",
+  "categoria": "dormitorio",
+  "imagen": "/images/productos/cama-queen-con-cabecera.jpg",
+  "precio": 899,
+  "marca": "Arte Hogar",
+  "material": "Tela y estructura de pino",
+  "color": "Gris perla",
+  "dimensiones": "165 x 210 x 120 cm",
+  "destacado": true
+}

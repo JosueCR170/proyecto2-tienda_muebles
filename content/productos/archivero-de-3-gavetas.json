@@ -1,0 +1,14 @@
+{
+  "num": 22,
+  "slug": "archivero-de-3-gavetas",
+  "nombre": "Archivero de 3 gavetas",
+  "descripcion": "Archivero metálico con cerradura y gavetas para carpetas tamaño carta y oficio.",
+  "categoria": "oficina",
+  "imagen": "/images/productos/archivero-de-3-gavetas.jpg",
+  "precio": 249,
+  "marca": "Oficina Pro",
+  "material": "Acero",
+  "color": "Gris",
+  "dimensiones": "47 x 62 x 102 cm",
+  "destacado": false
+}

@@ -1,0 +1,14 @@
+{
+  "num": 25,
+  "slug": "lampara-de-pie-de-arco",
+  "nombre": "Lámpara de pie de arco",
+  "descripcion": "Lámpara de pie con brazo en arco que ilumina la mesa de centro sin necesidad de instalar puntos de luz en el cielo raso.",
+  "categoria": "iluminacion",
+  "imagen": "/images/productos/lampara-de-pie-de-arco.jpg",
+  "precio": 239,
+  "marca": "Lumen",
+  "material": "Acero y base de mármol",
+  "color": "Dorado",
+  "dimensiones": "40 x 180 x 200 cm",
+  "destacado": true
+}

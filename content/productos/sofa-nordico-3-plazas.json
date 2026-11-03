@@ -1,0 +1,14 @@
+{
+  "num": 1,
+  "slug": "sofa-nordico-3-plazas",
+  "nombre": "Sofá nórdico de 3 plazas",
+  "descripcion": "Sofá de líneas rectas inspirado en el diseño escandinavo, con cojines de espuma de alta densidad y fundas desmontables para lavar.",
+  "categoria": "sala",
+  "imagen": "/images/productos/sofa-nordico-3-plazas.jpg",
+  "precio": 649,
+  "marca": "Nórdika",
+  "material": "Tela de lino y patas de pino",
+  "color": "Gris claro",
+  "dimensiones": "210 x 85 x 90 cm",
+  "destacado": true
+}

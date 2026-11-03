@@ -1,0 +1,14 @@
+{
+  "num": 11,
+  "slug": "mesa-redonda-pedestal",
+  "nombre": "Mesa redonda de pedestal",
+  "descripcion": "Mesa redonda con base de pedestal que permite acomodar cuatro sillas sin estorbar las piernas.",
+  "categoria": "comedor",
+  "imagen": "/images/productos/mesa-redonda-pedestal.jpg",
+  "precio": 429,
+  "marca": "Nórdika",
+  "material": "MDF lacado",
+  "color": "Blanco",
+  "dimensiones": "110 x 110 x 75 cm",
+  "destacado": false
+}

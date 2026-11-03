@@ -1,0 +1,14 @@
+{
+  "num": 14,
+  "slug": "mesa-de-noche",
+  "nombre": "Mesa de noche con gaveta",
+  "descripcion": "Mesa de noche compacta con una gaveta de cierre suave y un nicho abierto para libros.",
+  "categoria": "dormitorio",
+  "imagen": "/images/productos/mesa-de-noche.jpg",
+  "precio": 129,
+  "marca": "Nórdika",
+  "material": "MDF y patas de pino",
+  "color": "Blanco",
+  "dimensiones": "45 x 40 x 55 cm",
+  "destacado": false
+}

@@ -1,0 +1,14 @@
+{
+  "num": 35,
+  "slug": "cuadro-abstracto-en-lienzo",
+  "nombre": "Cuadro abstracto en lienzo",
+  "descripcion": "Pintura abstracta impresa sobre lienzo con retoques a mano, lista para colgar.",
+  "categoria": "decoracion",
+  "imagen": "/images/productos/cuadro-abstracto-en-lienzo.jpg",
+  "precio": 119,
+  "marca": "Arte Hogar",
+  "material": "Lienzo y bastidor de madera",
+  "color": "Multicolor",
+  "dimensiones": "90 x 60 x 3 cm",
+  "destacado": false
+}

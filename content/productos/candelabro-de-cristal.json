@@ -1,0 +1,14 @@
+{
+  "num": 28,
+  "slug": "candelabro-de-cristal",
+  "nombre": "Candelabro de cristal",
+  "descripcion": "Candelabro de seis luces con lágrimas de cristal para salas y comedores de techo alto.",
+  "categoria": "iluminacion",
+  "imagen": "/images/productos/candelabro-de-cristal.jpg",
+  "precio": 499,
+  "marca": "Lumen",
+  "material": "Cristal y metal cromado",
+  "color": "Cromo",
+  "dimensiones": "60 x 60 x 70 cm",
+  "destacado": false
+}

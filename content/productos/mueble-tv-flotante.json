@@ -1,0 +1,14 @@
+{
+  "num": 5,
+  "slug": "mueble-tv-flotante",
+  "nombre": "Mueble para TV flotante",
+  "descripcion": "Mueble de pared para televisores de hasta 75 pulgadas, con dos puertas abatibles y pasacables ocultos.",
+  "categoria": "sala",
+  "imagen": "/images/productos/mueble-tv-flotante.jpg",
+  "precio": 289,
+  "marca": "Nórdika",
+  "material": "MDF enchapado",
+  "color": "Blanco y nogal",
+  "dimensiones": "180 x 30 x 35 cm",
+  "destacado": false
+}

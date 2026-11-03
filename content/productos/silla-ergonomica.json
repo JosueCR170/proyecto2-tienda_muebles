@@ -1,0 +1,14 @@
+{
+  "num": 20,
+  "slug": "silla-ergonomica",
+  "nombre": "Silla ergonómica de malla",
+  "descripcion": "Silla con soporte lumbar ajustable, apoyabrazos 3D y respaldo de malla transpirable.",
+  "categoria": "oficina",
+  "imagen": "/images/productos/silla-ergonomica.jpg",
+  "precio": 279,
+  "marca": "Oficina Pro",
+  "material": "Malla y nailon",
+  "color": "Negro",
+  "dimensiones": "65 x 65 x 120 cm",
+  "destacado": true
+}

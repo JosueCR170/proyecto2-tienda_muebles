@@ -1,0 +1,14 @@
+{
+  "num": 27,
+  "slug": "lampara-de-mesa-de-ceramica",
+  "nombre": "Lámpara de mesa de cerámica",
+  "descripcion": "Lámpara de mesa con base de cerámica esmaltada y pantalla de lino.",
+  "categoria": "iluminacion",
+  "imagen": "/images/productos/lampara-de-mesa-de-ceramica.jpg",
+  "precio": 99,
+  "marca": "Arte Hogar",
+  "material": "Cerámica y lino",
+  "color": "Terracota",
+  "dimensiones": "30 x 30 x 55 cm",
+  "destacado": false
+}

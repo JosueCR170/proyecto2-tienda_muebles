@@ -1,0 +1,14 @@
+{
+  "num": 32,
+  "slug": "alfombra-tejida-a-mano",
+  "nombre": "Alfombra tejida a mano",
+  "descripcion": "Alfombra de lana con patrón geométrico, tejida a mano por artesanos.",
+  "categoria": "decoracion",
+  "imagen": "/images/productos/alfombra-tejida-a-mano.jpg",
+  "precio": 259,
+  "marca": "Arte Hogar",
+  "material": "Lana y algodón",
+  "color": "Crema",
+  "dimensiones": "160 x 230 cm",
+  "destacado": false
+}

@@ -1,0 +1,14 @@
+{
+  "num": 4,
+  "slug": "mesa-de-centro-roble",
+  "nombre": "Mesa de centro de roble",
+  "descripcion": "Mesa de centro de roble con acabado al aceite y repisa inferior para revistas o canastas.",
+  "categoria": "sala",
+  "imagen": "/images/productos/mesa-de-centro-roble.jpg",
+  "precio": 229,
+  "marca": "Casa Roble",
+  "material": "Roble macizo",
+  "color": "Natural",
+  "dimensiones": "110 x 60 x 42 cm",
+  "destacado": true
+}

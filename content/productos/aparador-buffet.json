@@ -1,0 +1,14 @@
+{
+  "num": 10,
+  "slug": "aparador-buffet",
+  "nombre": "Aparador buffet",
+  "descripcion": "Aparador con tres puertas y dos gavetas para vajilla, mantelería y cubiertos.",
+  "categoria": "comedor",
+  "imagen": "/images/productos/aparador-buffet.jpg",
+  "precio": 549,
+  "marca": "Casa Roble",
+  "material": "Madera de mango",
+  "color": "Nogal",
+  "dimensiones": "160 x 45 x 80 cm",
+  "destacado": false
+}

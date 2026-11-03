@@ -1,0 +1,14 @@
+{
+  "num": 23,
+  "slug": "escritorio-elevable",
+  "nombre": "Escritorio elevable eléctrico",
+  "descripcion": "Escritorio de altura ajustable con motor eléctrico y cuatro memorias para alternar entre trabajar sentado y de pie.",
+  "categoria": "oficina",
+  "imagen": "/images/productos/escritorio-elevable.jpg",
+  "precio": 689,
+  "marca": "Oficina Pro",
+  "material": "Acero y MDF",
+  "color": "Blanco",
+  "dimensiones": "140 x 70 x 72-120 cm",
+  "destacado": false
+}

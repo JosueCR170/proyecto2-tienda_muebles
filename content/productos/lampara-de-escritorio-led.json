@@ -1,0 +1,14 @@
+{
+  "num": 30,
+  "slug": "lampara-de-escritorio-led",
+  "nombre": "Lámpara de escritorio LED",
+  "descripcion": "Lámpara LED con tres temperaturas de color, regulador de intensidad y puerto USB de carga.",
+  "categoria": "iluminacion",
+  "imagen": "/images/productos/lampara-de-escritorio-led.jpg",
+  "precio": 59,
+  "marca": "Oficina Pro",
+  "material": "Aluminio",
+  "color": "Negro",
+  "dimensiones": "18 x 40 x 45 cm",
+  "destacado": false
+}

@@ -1,0 +1,14 @@
+{
+  "num": 7,
+  "slug": "mesa-comedor-6-puestos",
+  "nombre": "Mesa de comedor para 6",
+  "descripcion": "Mesa rectangular de teca costarricense con cubierta de 4 cm de grosor, cómoda para seis personas.",
+  "categoria": "comedor",
+  "imagen": "/images/productos/mesa-comedor-6-puestos.jpg",
+  "precio": 799,
+  "marca": "Casa Roble",
+  "material": "Madera de teca",
+  "color": "Miel",
+  "dimensiones": "180 x 90 x 76 cm",
+  "destacado": true
+}

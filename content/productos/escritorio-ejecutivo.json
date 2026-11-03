@@ -1,0 +1,14 @@
+{
+  "num": 19,
+  "slug": "escritorio-ejecutivo",
+  "nombre": "Escritorio ejecutivo",
+  "descripcion": "Escritorio de superficie amplia con pedestal de tres gavetas y bandeja para teclado.",
+  "categoria": "oficina",
+  "imagen": "/images/productos/escritorio-ejecutivo.jpg",
+  "precio": 529,
+  "marca": "Oficina Pro",
+  "material": "Madera y metal",
+  "color": "Nogal y negro",
+  "dimensiones": "160 x 75 x 76 cm",
+  "destacado": true
+}

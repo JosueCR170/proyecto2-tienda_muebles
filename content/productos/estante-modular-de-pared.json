@@ -1,0 +1,14 @@
+{
+  "num": 24,
+  "slug": "estante-modular-de-pared",
+  "nombre": "Estante modular de pared",
+  "descripcion": "Sistema de repisas de pared que se puede ampliar con módulos adicionales.",
+  "categoria": "oficina",
+  "imagen": "/images/productos/estante-modular-de-pared.jpg",
+  "precio": 149,
+  "marca": "Nórdika",
+  "material": "Pino y metal",
+  "color": "Natural",
+  "dimensiones": "120 x 25 x 90 cm",
+  "destacado": false
+}

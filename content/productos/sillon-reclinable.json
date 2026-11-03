@@ -1,0 +1,14 @@
+{
+  "num": 3,
+  "slug": "sillon-reclinable",
+  "nombre": "Sillón reclinable",
+  "descripcion": "Sillón con mecanismo reclinable de tres posiciones y reposapiés integrado, ideal para leer o ver películas.",
+  "categoria": "sala",
+  "imagen": "/images/productos/sillon-reclinable.jpg",
+  "precio": 459,
+  "marca": "Muebles Tico",
+  "material": "Cuero sintético",
+  "color": "Café",
+  "dimensiones": "95 x 98 x 105 cm",
+  "destacado": false
+}

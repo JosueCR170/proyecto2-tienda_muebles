@@ -1,0 +1,14 @@
+{
+  "num": 8,
+  "slug": "silla-comedor-tapizada",
+  "nombre": "Silla de comedor tapizada",
+  "descripcion": "Silla con asiento y respaldo acolchados, patas de haya y tela resistente al uso diario.",
+  "categoria": "comedor",
+  "imagen": "/images/productos/silla-comedor-tapizada.jpg",
+  "precio": 119,
+  "marca": "Nórdika",
+  "material": "Tela y madera de haya",
+  "color": "Gris oxford",
+  "dimensiones": "46 x 55 x 88 cm",
+  "destacado": false
+}

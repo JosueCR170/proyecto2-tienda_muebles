@@ -1,0 +1,14 @@
+{
+  "num": 31,
+  "slug": "espejo-redondo-dorado",
+  "nombre": "Espejo redondo con marco dorado",
+  "descripcion": "Espejo de pared de 80 cm de diámetro que amplía visualmente recibidores y baños.",
+  "categoria": "decoracion",
+  "imagen": "/images/productos/espejo-redondo-dorado.jpg",
+  "precio": 139,
+  "marca": "Arte Hogar",
+  "material": "Vidrio y metal",
+  "color": "Dorado",
+  "dimensiones": "80 x 80 x 3 cm",
+  "destacado": true
+}

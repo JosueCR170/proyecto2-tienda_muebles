@@ -1,0 +1,14 @@
+{
+  "num": 15,
+  "slug": "comoda-de-6-gavetas",
+  "nombre": "Cómoda de 6 gavetas",
+  "descripcion": "Cómoda amplia con seis gavetas sobre correderas metálicas para organizar la ropa.",
+  "categoria": "dormitorio",
+  "imagen": "/images/productos/comoda-de-6-gavetas.jpg",
+  "precio": 459,
+  "marca": "Casa Roble",
+  "material": "Madera de pino",
+  "color": "Natural",
+  "dimensiones": "120 x 45 x 85 cm",
+  "destacado": false
+}

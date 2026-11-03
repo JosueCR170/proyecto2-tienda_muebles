@@ -1,0 +1,14 @@
+{
+  "num": 18,
+  "slug": "cama-individual-juvenil",
+  "nombre": "Cama individual juvenil",
+  "descripcion": "Cama individual con gavetero inferior que aprovecha el espacio en habitaciones pequeñas.",
+  "categoria": "dormitorio",
+  "imagen": "/images/productos/cama-individual-juvenil.jpg",
+  "precio": 379,
+  "marca": "Muebles Tico",
+  "material": "Pino macizo",
+  "color": "Blanco",
+  "dimensiones": "100 x 200 x 90 cm",
+  "destacado": false
+}

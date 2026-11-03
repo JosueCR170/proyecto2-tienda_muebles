@@ -1,0 +1,14 @@
+{
+  "num": 9,
+  "slug": "banca-de-comedor",
+  "nombre": "Banca de comedor de madera",
+  "descripcion": "Banca rústica que complementa la mesa de comedor y también funciona en el recibidor.",
+  "categoria": "comedor",
+  "imagen": "/images/productos/banca-de-comedor.jpg",
+  "precio": 189,
+  "marca": "Muebles Tico",
+  "material": "Pino macizo",
+  "color": "Natural",
+  "dimensiones": "140 x 35 x 45 cm",
+  "destacado": false
+}

@@ -1,0 +1,7 @@
+{
+  "slug": "dormitorio",
+  "nombre": "Dormitorio",
+  "descripcion": "Camas, mesas de noche, cómodas y roperos para un descanso ordenado.",
+  "orden": 3,
+  "imagen": "/images/categorias/dormitorio.jpg"
+}

@@ -1,0 +1,14 @@
+{
+  "num": 21,
+  "slug": "librero-de-5-niveles",
+  "nombre": "Librero de 5 niveles",
+  "descripcion": "Librero con cinco repisas para libros, carpetas y objetos decorativos.",
+  "categoria": "oficina",
+  "imagen": "/images/productos/librero-de-5-niveles.jpg",
+  "precio": 199,
+  "marca": "Nórdika",
+  "material": "Melamina",
+  "color": "Blanco",
+  "dimensiones": "80 x 30 x 180 cm",
+  "destacado": false
+}

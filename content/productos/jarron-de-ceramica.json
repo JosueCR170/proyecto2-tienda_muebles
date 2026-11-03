@@ -1,0 +1,14 @@
+{
+  "num": 33,
+  "slug": "jarron-de-ceramica",
+  "nombre": "Jarrón de cerámica artesanal",
+  "descripcion": "Jarrón modelado a mano con esmalte irregular; cada pieza es única.",
+  "categoria": "decoracion",
+  "imagen": "/images/productos/jarron-de-ceramica.jpg",
+  "precio": 45,
+  "marca": "Muebles Tico",
+  "material": "Cerámica",
+  "color": "Azul",
+  "dimensiones": "18 x 18 x 35 cm",
+  "destacado": false
+}

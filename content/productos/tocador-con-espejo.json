@@ -1,0 +1,14 @@
+{
+  "num": 17,
+  "slug": "tocador-con-espejo",
+  "nombre": "Tocador con espejo",
+  "descripcion": "Tocador con espejo, tres gavetas y banqueta acolchada incluida.",
+  "categoria": "dormitorio",
+  "imagen": "/images/productos/tocador-con-espejo.jpg",
+  "precio": 349,
+  "marca": "Arte Hogar",
+  "material": "MDF lacado y vidrio",
+  "color": "Blanco",
+  "dimensiones": "100 x 40 x 140 cm",
+  "destacado": false
+}

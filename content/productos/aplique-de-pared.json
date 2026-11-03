@@ -1,0 +1,14 @@
+{
+  "num": 29,
+  "slug": "aplique-de-pared",
+  "nombre": "Aplique de pared",
+  "descripcion": "Aplique de pared con brazo articulado, ideal junto a la cama o en pasillos.",
+  "categoria": "iluminacion",
+  "imagen": "/images/productos/aplique-de-pared.jpg",
+  "precio": 69,
+  "marca": "Lumen",
+  "material": "Latón",
+  "color": "Dorado",
+  "dimensiones": "15 x 20 x 30 cm",
+  "destacado": false
+}

@@ -1,0 +1,14 @@
+{
+  "num": 6,
+  "slug": "butaca-de-terciopelo",
+  "nombre": "Butaca de terciopelo",
+  "descripcion": "Butaca envolvente tapizada en terciopelo, con patas de metal dorado que aportan un aire retro.",
+  "categoria": "sala",
+  "imagen": "/images/productos/butaca-de-terciopelo.jpg",
+  "precio": 319,
+  "marca": "Arte Hogar",
+  "material": "Terciopelo y patas de metal",
+  "color": "Verde esmeralda",
+  "dimensiones": "75 x 78 x 80 cm",
+  "destacado": false
+}
